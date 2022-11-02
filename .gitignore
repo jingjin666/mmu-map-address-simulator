@@ -1,0 +1,15 @@
+*.*
+!*.c
+!*.cpp
+!*.h
+!*.S
+!*.s
+!*.md
+!*.sh
+!*.py
+!*.lds
+!.gitignore
+!.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
